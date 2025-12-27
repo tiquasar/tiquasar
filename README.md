@@ -29,19 +29,25 @@
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="55%" align="center" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="45%" align="left" valign="top">
       <a href="https://www.kaggle.com/tiquasar">
         <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Kaggle_Rank-Expert-00BBFF?style=flat-square&logo=kaggle" alt="Kaggle Tier" />
-      <br/>
-      <img src="https://img.shields.io/badge/Medals-Competition_1-gold?style=flat-square" alt="Competition Medals" />
-      <img src="https://img.shields.io/badge/Medals-Notebook_2-silver?style=flat-square" alt="Notebook Medals" />
-      <img src="https://img.shields.io/badge/Medals-Discussion_5-bronze?style=flat-square" alt="Discussion Medals" />
+      <strong>🏆 Competition Medals</strong><br/>
+      <img src="https://img.shields.io/badge/Silver-3-C0C0C0?style=flat-square&logo=kaggle" alt="Silver Medals" /> 
+      <img src="https://img.shields.io/badge/Bronze-3-CD7F32?style=flat-square&logo=kaggle" alt="Bronze Medals" />
+      <br/><br/>
+      <strong>📓 Notebooks & 📂 Datasets</strong><br/>
+      <img src="https://img.shields.io/badge/Notebook_Upvotes-Total_Value-blue?style=flat-square&logo=bookstack" alt="Notebook Upvotes" /> <br/>
+      <img src="https://img.shields.io/badge/Dataset_Upvotes-Total_Value-green?style=flat-square&logo=database" alt="Dataset Upvotes" />
+      <br/><br/>
+      <strong>🏅 Medals (Others)</strong><br/>
+      <img src="https://img.shields.io/badge/Notebooks-Medal_Count-blue?style=flat-square" alt="Notebook Medals" /> 
+      <img src="https://img.shields.io/badge/Datasets-Medal_Count-green?style=flat-square" alt="Dataset Medals" />
     </td>
   </tr>
 </table>
