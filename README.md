@@ -23,17 +23,25 @@
 
 ---
 
+---
+
 ### 📊 Statistics & Achievements
 
 <table border="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://www.kaggle.com/tiquasar">
-        <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?tiquasar" alt="Kaggle Stats" />
+        <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kaggle_Rank-Expert-00BBFF?style=flat-square&logo=kaggle" alt="Kaggle Tier" />
+      <br/>
+      <img src="https://img.shields.io/badge/Medals-Competition_1-gold?style=flat-square" alt="Competition Medals" />
+      <img src="https://img.shields.io/badge/Medals-Notebook_2-silver?style=flat-square" alt="Notebook Medals" />
+      <img src="https://img.shields.io/badge/Medals-Discussion_5-bronze?style=flat-square" alt="Discussion Medals" />
     </td>
   </tr>
 </table>
