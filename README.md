@@ -31,17 +31,19 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="left" valign="top">
-      <a href="https://www.kaggle.com/tiquasar">
-        <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
-      </a>
-      <br/><br/>
+      <div align="center">
+        <a href="https://www.kaggle.com/tiquasar">
+          <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
+        </a>
+      </div>
+      <br/>
       <strong>🏆 Competition Medals</strong><br/>
       <img src="https://img.shields.io/badge/Silver-3-C0C0C0?style=flat-square&logo=kaggle" alt="Silver Medals" /> 
       <img src="https://img.shields.io/badge/Bronze-2-CD7F32?style=flat-square&logo=kaggle" alt="Bronze Medals" />
       <br/><br/>
       <strong>📓 Notebooks & 📂 Datasets</strong><br/>
       <img src="https://img.shields.io/badge/Notebook_Upvotes-236-blue?style=flat-square&logo=bookstack" alt="Notebook Upvotes" /> <br/>
-      <img src="https://img.shields.io/badge/Dataset_Upvotes-Total_Value-green?style=flat-square&logo=database" alt="Dataset Upvotes" />
+      <img src="https://img.shields.io/badge/Dataset_Upvotes-9-green?style=flat-square&logo=database" alt="Dataset Upvotes" />
     </td>
   </tr>
 </table>
