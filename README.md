@@ -23,17 +23,25 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Statistics & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="Ayush's GitHub Stats" />
-  <br/>
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.kaggle.com/tiquasar">
+        <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?tiquasar" alt="Kaggle Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [theanandayush](https://www.linkedin.com/in/theanandayush/)
-- 📧 **Email:** (ay39nd@gmail.com)
+- 📧 **Email:** [ay39nd@gmail.com](mailto:ay39nd@gmail.com)
 
 *"Building systems that scale and code that lasts."*
