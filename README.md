@@ -37,15 +37,11 @@
       <br/><br/>
       <strong>🏆 Competition Medals</strong><br/>
       <img src="https://img.shields.io/badge/Silver-3-C0C0C0?style=flat-square&logo=kaggle" alt="Silver Medals" /> 
-      <img src="https://img.shields.io/badge/Bronze-3-CD7F32?style=flat-square&logo=kaggle" alt="Bronze Medals" />
+      <img src="https://img.shields.io/badge/Bronze-2-CD7F32?style=flat-square&logo=kaggle" alt="Bronze Medals" />
       <br/><br/>
       <strong>📓 Notebooks & 📂 Datasets</strong><br/>
       <img src="https://img.shields.io/badge/Notebook_Upvotes-236-blue?style=flat-square&logo=bookstack" alt="Notebook Upvotes" /> <br/>
       <img src="https://img.shields.io/badge/Dataset_Upvotes-Total_Value-green?style=flat-square&logo=database" alt="Dataset Upvotes" />
-      <br/><br/>
-      <strong>🏅 Medals (Others)</strong><br/>
-      <img src="https://img.shields.io/badge/Notebooks-Medal_Count-blue?style=flat-square" alt="Notebook Medals" /> 
-      <img src="https://img.shields.io/badge/Datasets-Medal_Count-green?style=flat-square" alt="Dataset Medals" />
     </td>
   </tr>
 </table>
