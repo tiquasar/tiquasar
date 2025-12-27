@@ -23,16 +23,14 @@
 
 ---
 
----
-
-### 📊 Statistics & Achievements
+### 📊 Stats
 
 <table border="0">
   <tr>
-    <td width="55%" align="center" valign="top">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="45%" align="left" valign="top">
+    <td width="50%" align="left" valign="top">
       <a href="https://www.kaggle.com/tiquasar">
         <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
       </a>
@@ -42,7 +40,7 @@
       <img src="https://img.shields.io/badge/Bronze-3-CD7F32?style=flat-square&logo=kaggle" alt="Bronze Medals" />
       <br/><br/>
       <strong>📓 Notebooks & 📂 Datasets</strong><br/>
-      <img src="https://img.shields.io/badge/Notebook_Upvotes-Total_Value-blue?style=flat-square&logo=bookstack" alt="Notebook Upvotes" /> <br/>
+      <img src="https://img.shields.io/badge/Notebook_Upvotes-236-blue?style=flat-square&logo=bookstack" alt="Notebook Upvotes" /> <br/>
       <img src="https://img.shields.io/badge/Dataset_Upvotes-Total_Value-green?style=flat-square&logo=database" alt="Dataset Upvotes" />
       <br/><br/>
       <strong>🏅 Medals (Others)</strong><br/>
