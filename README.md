@@ -2,7 +2,6 @@
 
 ### 👨‍💻 Software Engineer & DevOps Enthusiast
 I specialize in building scalable **Java backends** and managing Distributed infrastructures.
-I focus on bridging the gap between clean code and robust deployments.
 ---
 
 ### 🚀 What I'm Learning and Working On
