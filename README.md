@@ -1,7 +1,7 @@
 # Hi there, I'm Ayush
 
 ### 👨‍💻 Software Engineer & DevOps Enthusiast
-##### I specialize in building scalable **Java backends** and managing Distributed infrastructures.
+#### I specialize in building scalable **Java backends** and managing Distributed infrastructures.
 ---
 
 ### 🚀 What I'm Learning and Working On
