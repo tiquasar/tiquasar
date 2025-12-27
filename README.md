@@ -1,13 +1,14 @@
-# Hi there, I'm Ayush
+# Hi there, I'm Ayush 👋
 
 ### 👨‍💻 Software Engineer & DevOps Enthusiast
-#### I specialize in building scalable **Java backends** and managing Distributed infrastructures.
+#### I specialize in building scalable **Java backends** and managing **Distributed infrastructures**.
+
 ---
 
 ### 🚀 What I'm Learning and Working On
-- 🛠️ **System Monitoring Dashboard:** Building a progressively optimized monitoring solution for server health.
-- ☸️ **Kubernetes & Cloud Native:** Deep-diving into StatefulSets, networking, and volume management.
-- ☕ **Advanced Java:** Focusing on multithreading and Aspect-Oriented Programming (AOP).
+- 🛠️ **System Monitoring Dashboard:** Developing a backend from the ground up to monitor server health with a focus on progressive optimization.
+- ☸️ **Kubernetes & Cloud Native:** Deep-diving into **StatefulSets**, **ConfigMaps/Secrets**, and persistent volume management.
+- ☕ **Advanced Java:** Mastering **Multithreading** concurrency models and **Aspect-Oriented Programming (AOP)** for cleaner cross-cutting concerns.
 
 ---
 
@@ -22,11 +23,18 @@
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical)
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="Ayush's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiquasar&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</p>
+
 ---
 
-### 📫 LinkedIn
-- 💼 [LinkedIn](https://www.linkedin.com/in/theanandayush/)
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [theanandayush](https://www.linkedin.com/in/theanandayush/)
+- 📧 **Email:** (Your Email Here)
 
 *"Building systems that scale and code that lasts."*
