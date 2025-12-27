@@ -28,13 +28,12 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="Ayush's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiquasar&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [theanandayush](https://www.linkedin.com/in/theanandayush/)
-- 📧 **Email:** (Your Email Here)
+- 📧 **Email:** (ay39nd@gmail.com)
 
 *"Building systems that scale and code that lasts."*
