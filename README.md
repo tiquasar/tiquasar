@@ -25,12 +25,12 @@
 
 ### 📊 Stats
 
-<table border="0" width="100%">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="55%" align="center" valign="top">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tiquasar&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="45%" align="center" valign="top">
       <a href="https://www.kaggle.com/tiquasar">
         <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle Profile" />
       </a>
